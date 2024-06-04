@@ -1,0 +1,143 @@
+[2024-06-02 18:36:15] [ INFO ] [PacienteDAOH2:141] iniciando la busqueda por email: german@german.com
+[2024-06-02 18:36:15] [ ERROR] [PacienteDAOH2:156] Table "PACIENTES" not found (this database is empty); SQL statement:
+SELECT * FROM PACIENTES WHERE EMAIL=? [42104-224]
+[2024-06-02 19:42:06] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 19:42:06] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 19:42:06] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 19:42:06] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 19:45:23] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 19:45:23] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 19:45:23] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 19:45:23] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 19:51:44] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 19:51:44] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 19:51:44] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 19:51:44] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 19:58:44] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 19:58:44] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 19:58:44] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 19:58:44] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:01:45] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:01:45] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:01:45] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:01:45] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:07:46] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:07:46] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:07:47] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:07:47] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:13:54] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:13:54] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:13:54] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:13:54] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:21:17] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:21:17] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:21:17] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:21:17] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:25:24] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:25:24] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:25:25] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:25:25] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:29:02] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:29:02] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:29:03] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:29:03] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:30:48] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina
+[2024-06-02 20:30:48] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:30:48] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:30:48] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:31:49] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina555
+[2024-06-02 20:31:49] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:31:49] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:31:49] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:52:39] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina5
+[2024-06-02 20:52:39] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:52:39] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-02 20:52:39] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-02 20:59:42] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina5
+[2024-06-02 20:59:42] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-02 20:59:42] [ ERROR] [DomicilioDAOH2:36] La base de datos puede que ya esté siendo utilizada: "C:/Users/PayKind/clinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/PayKind/clinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-06-02 20:59:42] [ ERROR] [PacienteDAOH2:43] La base de datos puede que ya esté siendo utilizada: "C:/Users/PayKind/clinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/PayKind/clinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-06-03 11:46:57] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina5
+[2024-06-03 11:46:57] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-03 11:46:57] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-03 11:46:57] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-03 11:52:12] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina88
+[2024-06-03 11:52:12] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-03 11:52:12] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-03 11:52:12] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-03 12:00:38] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina88
+[2024-06-03 12:00:38] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-03 12:00:38] [ ERROR] [DomicilioDAOH2:36] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO,LOCALIDAD, PROVINCIA) VALUES(?,?,?,?) [42104-224]
+[2024-06-03 12:00:38] [ ERROR] [PacienteDAOH2:43] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES(NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID, EMAIL) VALUES(?,?,?,?,?,?) [42104-224]
+[2024-06-03 12:04:30] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina88
+[2024-06-03 12:04:30] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-03 12:04:30] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-03 12:04:30] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-03 12:04:30] [ INFO ] [DomicilioDAOH2:34] domicilio guardado
+[2024-06-03 12:04:30] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-03 12:04:30] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-03 12:04:30] [ INFO ] [PacienteDAOH2:40] paciente guardado con exito
+[2024-06-03 12:04:36] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina88
+[2024-06-03 12:04:36] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-03 12:04:36] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-03 12:04:36] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-03 12:04:36] [ INFO ] [DomicilioDAOH2:34] domicilio guardado
+[2024-06-03 12:04:36] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-03 12:04:36] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-03 12:04:36] [ INFO ] [PacienteDAOH2:40] paciente guardado con exito
+[2024-06-03 12:04:40] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Ana Carolina88
+[2024-06-03 12:04:40] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-03 12:04:40] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-03 12:04:40] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-03 12:04:40] [ INFO ] [DomicilioDAOH2:34] domicilio guardado
+[2024-06-03 12:04:41] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-03 12:04:41] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-03 12:04:41] [ INFO ] [PacienteDAOH2:40] paciente guardado con exito
+[2024-06-04 14:22:49] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-06-04 14:22:49] [ INFO ] [DomicilioDAOH2:45] iniciando la busqueda de un domicilio con id: 1
+[2024-06-04 14:22:57] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 2
+[2024-06-04 14:22:57] [ INFO ] [DomicilioDAOH2:45] iniciando la busqueda de un domicilio con id: 2
+[2024-06-04 14:33:23] [ INFO ] [BD:27] Conexión a la base de datos establecida correctamente
+[2024-06-04 14:33:23] [ INFO ] [BD:34] tablas creadas con exito
+[2024-06-04 14:33:55] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Gina
+[2024-06-04 14:33:55] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-04 14:33:55] [ INFO ] [DomicilioDAOH2:33] domicilio guardado
+[2024-06-04 14:33:55] [ INFO ] [PacienteDAOH2:39] paciente guardado con exito
+[2024-06-04 14:33:59] [ INFO ] [PacienteDAOH2:21] inciando las operaciones de guardado de : Gina
+[2024-06-04 14:33:59] [ INFO ] [DomicilioDAOH2:19] iniciando las operaciones de guardado de un domicilio con id: null
+[2024-06-04 14:33:59] [ INFO ] [DomicilioDAOH2:33] domicilio guardado
+[2024-06-04 14:33:59] [ INFO ] [PacienteDAOH2:39] paciente guardado con exito
